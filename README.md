@@ -1,5 +1,21 @@
-### Hi there <a href="https://www.manishahire.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-This is the place where I opensource stuff and break things :rofl:
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <a href="https://www.manishahire.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+
+
+<p>Welcome to my page! </br> I'm Manish, iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555462.png" width="13"/> <b>Pune, India</b>
+<h3>Things I code with</h3>
+<p>
+  <img alt="iOS" src="https://img.shields.io/badge/-iOS-45b8d8?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-eb4034?style=flat-square&logo=swift&logoColor=white" /> 
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-2088FF?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-1a73e8?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-46a2f1?style=flat-square&logo=react&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
 
 - 🔭 &nbsp;I’m working on iOS (Swift) :wink:
 - 🌱 &nbsp;I’m currently learning Flutter and DevOps
