@@ -1,7 +1,7 @@
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <a href="https://www.manishahire.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! Great to have you on my page! <a href="https://www.manishahire.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
 
-<p>Welcome to my page! </br> I'm Manish, iOS developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555462.png" width="13"/> <b>Pune, India</b>
+I'm Manish, an enthusiastic iOS developer based in Pune, India. <img src="https://cdn-icons-png.flaticon.com/512/555/555462.png" width="13"/>
 <h3>Things I code with</h3>
 <p>
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-45b8d8?style=flat-square&logo=apple&logoColor=white" />
@@ -17,11 +17,11 @@
 </p>
 
 
-- 🔭 &nbsp;I’m working on iOS (Swift) :wink:
-- 🌱 &nbsp;I’m currently learning Flutter and DevOps
-- 💬 &nbsp;Ask me about anything related to iOS/Swift/DevOps
-- 📫 &nbsp;How to reach me: <a rel="me" href="https://www.manishahire.com/">maishahire.com</a> or [@manishahireb](https://twitter.com/manishahireb) or [@manishahireb](https://www.instagram.com/manishahireb/)
-- 👨‍💻 &nbsp;Read more about my projects at [manishahire.com](https://manishahire.com/?page_id=393)
+- 🔭 &nbsp; Currently immersed in iOS development using Swift. :wink:
+- 🌱 &nbsp; Exploring the realms of Flutter and diving into the world of DevOps.
+- 💬 &nbsp; Feel free to ask me anything related to iOS/Swift.
+- 📫 &nbsp; Connect with me at <a rel="me" href="https://www.manishahire.com/">maishahire.com</a> or [@manishahireb](https://twitter.com/manishahireb) or [@manishahireb](https://www.instagram.com/manishahireb/)
+- 👨‍💻 &nbsp; Dive into the details of my projects at [manishahire.com](https://manishahire.com/?page_id=393)
 
 
 📕 &nbsp;**Latest Blog Posts**
