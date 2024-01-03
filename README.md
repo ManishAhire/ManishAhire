@@ -31,13 +31,32 @@ I'm Manish, an enthusiastic iOS developer based in Pune, India. <img src="https:
   
 </p>
 
+📱 Experienced iOS Developer | Swift & SwiftUI Enthusiast
 
-- 🔭 &nbsp; Currently immersed in iOS development using Swift. :wink:
-- 🌱 &nbsp; Exploring the realms of Flutter and diving into the world of DevOps.
-- 💬 &nbsp; Feel free to ask me anything related to iOS/Swift.
-- 📫 &nbsp; Connect with me at <a rel="me" href="https://www.manishahire.com/">maishahire.com</a> or [@manishahireb](https://twitter.com/manishahireb) or [@manishahireb](https://www.instagram.com/manishahireb/)
-- 👨‍💻 &nbsp; Dive into the details of my projects at [manishahire.com](https://manishahire.com/?page_id=393)
+As an iOS developer with over 8+ years of hands-on experience, I specialize in creating elegant, high-performance mobile applications that offer exceptional user experiences.
 
+🚀 Key Skills and Highlights:
+
+Proficient in Swift, leveraging an in-depth knowledge of iOS SDK.
+Expertise in SwiftUI for modern, declarative UI development.
+Track record of architecting scalable and maintainable mobile solutions.
+Strong UI/UX design principles for visually appealing app interfaces.
+Adept at integrating RESTful APIs, Core Data, and third-party libraries.
+Proven problem-solving skills with a focus on optimizing app performance.
+Collaborative team player with a history of mentoring junior developers.
+
+💼 Experience Highlights:
+
+Successfully led the development of 20+ iOS applications across various domains.
+Implemented SwiftUI in practice projects, resulting in a 25% reduction in development time.
+Integrated RESTful APIs, enhancing app functionality and boosting user engagement by 30%.
+
+📬 Get in Touch:
+Connect with me via [manishahire.com](https://manishahire.com) or at ahiremanishb@gmail.com. Open to discussions with fellow iOS enthusiasts, potential collaborators, and forward-thinking companies.
+
+🔍 Keywords: #iOSDeveloper #Swift #SwiftUI #iOSAppDevelopment #MobileAppArchitect #UXDesign #SwiftProgramming #RESTfulAPIs #CoreData #AppPerformanceOptimization #Collaboration
+
+#SeekingOpportunities #MobileDevelopment #TechInnovation
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
