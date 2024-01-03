@@ -9,20 +9,18 @@ I'm Manish, an enthusiastic iOS developer based in Pune, India. <img src="https:
   <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-2762e0?style=flat-square&logo=swift&logoColor=white" /> 
   <img alt="Unit Test" src="https://img.shields.io/badge/-Unit%20Test-000000?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="UI Test" src="https://img.shields.io/badge/-UI%20Test-eb4034?style=flat-square&logo=xcode&logoColor=white" />
-  
   <img alt="XCode" src="https://img.shields.io/badge/-Xcode-2762e0?style=flat-square&logo=xcode&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-46a2f1?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-46a2f1?style=flat-square&logo=visualstudiocode&logoColor=white" />  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-46a2f1?style=flat-square&logo=bitbucket&logoColor=white" />
   <img alt="Sourcetree" src="https://img.shields.io/badge/-Sourcetree-46a2f1?style=flat-square&logo=Sourcetree&logoColor=white" />
-  <img alt="Agile" src="=https://img.shields.io/badge/-Agile-ba065a?style=flat-square&logo=circle&logoColor=white" />
-  <img alt="Scrum" src="=https://img.shields.io/badge/-Scrum-5A5A5A?style=flat-square&logo=circle&logoColor=white" />
-  <img alt="Jira" src="=https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img alt="Kanban" src="=https://img.shields.io/badge/-Kanban-0052CC?style=flat-square&logo=task&logoColor=white" />
-  <img alt="Trello" src="=https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
-  <img alt="Notion" src="=https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+  <img alt="Agile" src="https://img.shields.io/badge/-Agile-ba065a?style=flat-square&logo=circle&logoColor=white" />
+  <img alt="Scrum" src="https://img.shields.io/badge/-Scrum-5A5A5A?style=flat-square&logo=circle&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img alt="Kanban" src="https://img.shields.io/badge/-Kanban-0052CC?style=flat-square&logo=task&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />  
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-46a2f1?style=flat-square&logo=react&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-2088FF?style=flat-square&logo=flutter&logoColor=white" />
