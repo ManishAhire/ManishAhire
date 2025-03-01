@@ -33,7 +33,7 @@ I'm Manish, an enthusiastic iOS developer based in Pune, India. <img src="https:
 
 📱 Experienced iOS Developer | Swift & SwiftUI Enthusiast
 
-As an iOS developer with over 8+ years of hands-on experience, I specialize in creating elegant, high-performance mobile applications that offer exceptional user experiences.
+As an iOS developer with over 10+ years of hands-on experience, I specialize in creating elegant, high-performance mobile applications that offer exceptional user experiences.
 
 🚀 Key Skills and Highlights:
 
